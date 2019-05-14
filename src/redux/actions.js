@@ -1,4 +1,4 @@
-const URL = 'http://localhost:3000'
+const URL = 'https://anns-hogs-backend.herokuapp.com'
 
 const fetchingHogs = () => {
   return (dispatch) => {
